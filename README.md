@@ -54,21 +54,5 @@ analysis.train_ml_models()
 # Visualize
 analysis.create_all_visualizations()
 ```
-
-## Output Examples
-
-### Stock Analysis Dashboard
-[Add screenshot of your main dashboard]
-
-### ML Predictions
-[Add screenshot of prediction results]
-
-### Performance Metrics
-[Add screenshot of performance metrics]
-
-## License
-
-MIT
-
 ---
 Made with 💻 and ☕

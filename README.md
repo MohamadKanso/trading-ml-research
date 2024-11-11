@@ -9,18 +9,6 @@ Simple stock analysis and prediction using Python, ML, and financial data.
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logo=xgboost&logoColor=white)
 
-## Quick Start
-
-```bash
-# Install
-git clone https://github.com/yourusername/stock-analysis-ml.git
-cd stock-analysis-ml
-pip install -r requirements.txt
-
-# Run
-python stock_analyzer.py
-```
-
 ## Features
 
 📈 **Data Analysis**
